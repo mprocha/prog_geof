@@ -1,1 +1,2 @@
-# Repositório da Disciplina Programação em Geofísica do curso de Geofísica da UnB
+# Repositório da Disciplina Programação em Geofísica 
+# Curso de Geofísica da Universidade de Brasília
